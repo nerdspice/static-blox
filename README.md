@@ -8,5 +8,5 @@ This is a simple wordpress plugin that allows you to reference small snippets of
 ```php
 echo do_shortcode('[static_bloc name="contact-info"]');
 ```
-`name` = slug of static bloc
-`id` = post id of static bloc
+`name` = slug of static bloc  
+`id` = post id of static bloc  
